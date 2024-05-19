@@ -6,9 +6,6 @@
 - 🌱 I’m currently learning **Loop, functions, Pandas, numpy**
 
 - 🤝 I’m looking for help with **Python projects, machine learning**
-
-- 👨‍💻 All of my projects are available at [superlui04.github.io/mypage](https://superlui04.github.io/mypage/)
-
 - 💬 Ask me about **Python, t-sql, power bi, qliksense**
 
 - 📫 How to reach me **luisalichia@gmail.com**
